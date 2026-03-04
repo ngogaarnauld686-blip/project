@@ -1,20 +1,20 @@
-# num1=int(input('enter num1 ='))
-# num2=int(input("enter num2 ="))
+num1=int(input('enter num1 ='))
+num2=int(input("enter num2 ="))
 
-# #conditional statement
-#      #if :execute statement if is true
-#      #if-else :statement true or false
-#      #if elif : statement that has multiple condition
-#      #nested if : if inside another if
+#conditional statement
+     #if :execute statement if is true
+     #if-else :statement true or false
+     #if elif : statement that has multiple condition
+     #nested if : if inside another if
 
 
-# if num1>num2:
-#   sum =num1+num2
-#   print("num 1 is highet")
-# elif num1 == num2:
-#     print("num 1 equal to num 2")
-# else:
-#     print("num 2 is highet")
+if num1>num2:
+  sum =num1+num2
+  print("num 1 is highet")
+elif num1 == num2:
+    print("num 1 equal to num 2")
+else:
+    print("num 2 is highet")
 
 # #switch case
 
